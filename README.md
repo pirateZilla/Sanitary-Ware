@@ -170,9 +170,10 @@
 
 | Product Name                           | Item Number    | Price          | Retailer       | Datasheet      |
 | ---------------------------------------| -------------- | -------------- | -------------- | -------------- |
-| Product Name | [00000000](linktomanufacturer.com) | [€000.00](linktoretail.com) | Retailer | [Datasheet](rawpdf.com) |
+| IKEA GODMORGON | [404.827.56](https://www.ikea.com/ie/en/p/godmorgon-wash-stand-with-1-drawer-gillburen-dark-grey-40482756/) | [€129.00](https://www.ikea.com/ie/en/p/godmorgon-wash-stand-with-1-drawer-gillburen-dark-grey-40482756/) | IKEA (Ireland) | <a href="https://raw.githubusercontent.com/pirateZilla/Sanitary-Ware/main/mb-vanity" target="_blank">Datasheet</a> |
+| IKEA TOLKEN | [404.827.56](https://www.ikea.com/ie/en/p/tolken-countertop-bamboo-40371273/) | [€70.00](https://www.ikea.com/ie/en/p/tolken-countertop-bamboo-40371273/) | IKEA (Ireland) | <a href="https://raw.githubusercontent.com/pirateZilla/Sanitary-Ware/main/mb-counter" target="_blank">Datasheet</a> |
 
-![photo](photo-template.jpg)
+![mb-vanity](mb-vanity.webp)
 
 #### Additional Technical Specifications and Manuals
 
@@ -182,13 +183,14 @@
 
 | Product Name                           | Item Number    | Price          | Retailer       | Datasheet      |
 | ---------------------------------------| -------------- | -------------- | -------------- | -------------- |
-| Product Name | [00000000](linktomanufacturer.com) | [€000.00](linktoretail.com) | Retailer | [Datasheet](rawpdf.com) |
+| IKEA STORJORM | [202.481.18](https://www.ikea.com/ie/en/p/storjorm-mirror-cab-2-door-built-in-lighting-white-20248118/) | [€299.00](https://www.ikea.com/ie/en/p/storjorm-mirror-cab-2-door-built-in-lighting-white-20248118/) | IKEA (Ireland) | <a href="https://raw.githubusercontent.com/pirateZilla/Sanitary-Ware/main/mb-mirror" target="_blank">Datasheet</a> |
 
-![photo](photo-template.jpg)
+![ikea-mirror-cab](ikea-mirror-cab.webp)
 
 #### Additional Technical Specifications and Manuals
 
-* Placeholder
+* <a href="https://raw.githubusercontent.com/pirateZilla/Sanitary-Ware/main/mb-mirror" target="_blank">Cabinet Datasheet</a>
+* <a href="https://raw.githubusercontent.com/pirateZilla/Sanitary-Ware/main/mb-mirror-lights" target="_blank">Lights Datasheet</a>
 
 ### Toilet
 
@@ -312,6 +314,32 @@
 #### Additional Technical Specifications and Manuals
 
 * Placeholder
+
+### Mirror
+
+| Product Name                           | Item Number    | Price          | Retailer       | Datasheet      |
+| ---------------------------------------| -------------- | -------------- | -------------- | -------------- |
+| IKEA STOCKHOLM | [602.499.60](https://www.ikea.com/ie/en/p/stockholm-mirror-walnut-veneer-60249960/) | [€90](https://www.ikea.com/ie/en/p/stockholm-mirror-walnut-veneer-60249960/) | IKEA (Ireland) | Datasheet |
+
+![wc-mirror](wc-mirror.webp)
+
+#### Additional Technical Specifications and Manuals
+
+* Placeholder
+
+### Vanity Unit
+
+| Product Name                           | Item Number    | Price          | Retailer       | Datasheet      |
+| ---------------------------------------| -------------- | -------------- | -------------- | -------------- |
+| IKEA GODMORGON | [804.812.55](https://www.ikea.com/us/en/p/godmorgon-sink-cabinet-with-2-drawers-gillburen-gray-green-80481255/) | [€179.00](https://www.ikea.com/us/en/p/godmorgon-sink-cabinet-with-2-drawers-gillburen-gray-green-80481255/ | IKEA (Ireland) | <a href="https://raw.githubusercontent.com/pirateZilla/Sanitary-Ware/main/wc-vanity" target="_blank">Datasheet</a> |
+| IKEA TOLKEN | [503.546.97](https://www.ikea.com/ie/en/p/tolken-countertop-marble-effect-50354697/) | [€30.00](https://www.ikea.com/ie/en/p/tolken-countertop-marble-effect-50354697/) | IKEA (Ireland) | <a href="https://raw.githubusercontent.com/pirateZilla/Sanitary-Ware/main/wc-counter" target="_blank">Datasheet</a> |
+
+![wc-vanity](wc-vanity.webp)
+
+#### Additional Technical Specifications and Manuals
+
+* Placeholder
+
 
 ## Cost Table
 
