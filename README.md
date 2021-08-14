@@ -217,7 +217,7 @@
 | ---------------------------------------| -------------- | -------------- | -------------- | -------------- |
 | Viktor Benson Ari 1800mm Modern Freestanding Double Ended Bath (19984) White Acrylic  | [BT-49-1800](https://www.bathshack.com/viktor-benson-ari-1800mm-modern-freestanding-double-ended-bath.html) | [€899.00](https://www.bathshack.com/viktor-benson-ari-1800mm-modern-freestanding-double-ended-bath.html) | Bath Shack (Ireland) | [Datasheet](bath-spec.webp)] |
 | Grohe Essence floorstanding single lever bath mixer chrome  | [23491001](https://www.grohe.co.uk/en_gb/essence-single-lever-bath-mixer-1-2-floor-mounted-23491001.html) | [€785.49](https://www.reuter.com/grohe-essence-floor-mounted-single-lever-bath-mixer-chrome-a516598.php) | Reuter (Germany) | <a href="https://raw.githubusercontent.com/pirateZilla/Sanitary-Ware/main/bath-mixer.pdf" target="_blank">Datasheet</a> |
-| Grohe Essence floorstanding single lever bath mixer chrome  | [45984001](https://www.grohe.co.uk/en_gb/rough-in-set-45984001.html) | [€309.00](https://www.reuter.com/grohe-installation-set-for-free-standing-bath-fillers-and-bath-mixers-a555628.php) | Reuter (Germany) | <a href="https://raw.githubusercontent.com/pirateZilla/Sanitary-Ware/main/bath-mixer-install.pdf" target="_blank">Datasheet</a> |
+| Grohe installation set for free-standing bath fillers and bath mixers  | [45984001](https://www.grohe.co.uk/en_gb/rough-in-set-45984001.html) | [€309.00](https://www.reuter.com/grohe-installation-set-for-free-standing-bath-fillers-and-bath-mixers-a555628.php) | Reuter (Germany) | <a href="https://raw.githubusercontent.com/pirateZilla/Sanitary-Ware/main/bath-mixer-install.pdf" target="_blank">Datasheet</a> |
 
 ![bath](bath.png)
 ![bath-mixer](bath-mixer.jpg)
