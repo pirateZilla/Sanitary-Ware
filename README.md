@@ -59,7 +59,7 @@
 
 | Product Name                           | Item Number    | Price          | Retailer       | Datasheet      |
 | ---------------------------------------| -------------- | -------------- | -------------- | -------------- |
-| Villeroy & Boch Venticello XXL vanity unit for 2 countertop basins with 4 pull-out compartments front matt black / corpus matt black, chrome handles | [A94401PD](https://pro.villeroy-boch.com/en/gb/bw/m/A94401.html?tx_mmpdu_profiportal%5Baction%5D=detail&cHash=e4d52a653b712e8116f6baa73fa0d2f3) | [€1,415.67](https://www.reuter.com/villeroy-boch-venticello-vanity-unit-xxl-for-2-countertop-washbasins-w-1257-h-606-d-502-cm-4-pull-out-compartments-front-matt-black-corpus-matt-black-chrome-handles-a569498.php) | Retailer | <a href="https://raw.githubusercontent.com/pirateZilla/Sanitary-Ware/main/ensuite-vanity.pdf" target="_blank">Datasheet</a> |
+| Villeroy & Boch Venticello XXL vanity unit for 2 countertop basins with 4 pull-out compartments front matt black / corpus matt black, chrome handles | [A94401PD](https://pro.villeroy-boch.com/en/gb/bw/m/A94401.html?tx_mmpdu_profiportal%5Baction%5D=detail&cHash=e4d52a653b712e8116f6baa73fa0d2f3) | [€1,415.67](https://www.reuter.com/villeroy-boch-venticello-vanity-unit-xxl-for-2-countertop-washbasins-w-1257-h-606-d-502-cm-4-pull-out-compartments-front-matt-black-corpus-matt-black-chrome-handles-a569498.php) | Reuter (Germany) | <a href="https://raw.githubusercontent.com/pirateZilla/Sanitary-Ware/main/ensuite-vanity.pdf" target="_blank">Datasheet</a> |
 
 ![ensuite-vanity](ensuite-vanity.jpg)
 
@@ -73,9 +73,9 @@
 
 | Product Name                           | Item Number    | Price          | Retailer       | Datasheet      |
 | ---------------------------------------| -------------- | -------------- | -------------- | -------------- |
-| Product Name | [00000000](linktomanufacturer.com) | [€000.00](linktoretail.com) | Retailer | [Datasheet](rawpdf.com) |
+| Schneider O-Line wall-mounted or recessed mirror cabinet, 3 doors | [164.131.02.02](https://www.reuter.com/schneider-o-line-wall-mounted-or-recessed-mirror-cabinet-3-doors-w-130-h-745-d-128-cm-a599105.php) | [€913.18](https://www.reuter.com/schneider-o-line-wall-mounted-or-recessed-mirror-cabinet-3-doors-w-130-h-745-d-128-cm-a599105.php) | Reuter (Germany) | <a href="https://raw.githubusercontent.com/pirateZilla/Sanitary-Ware/main/ensuite-mirror.pdf" target="_blank">Datasheet</a> |
 
-![photo](photo-template.jpg)
+![ensuite-mirror](ensuite-mirror.jpg)
 
 #### Additional Technical Specifications and Manuals
 
