@@ -25,6 +25,7 @@
 | Villeroy & Boch ViConnect E200 flush plate matt chrome | [92249069](https://pro.villeroy-boch.com/en/se/bathroom-and-wellness/product-detail/m/922490.html?tx_mmpdu_profiportal%5Baction%5D=detail&cHash=17459d3a6ebc10416726af7365e6d787) | [€60.01](https://www.reuter.com/villeroy-boch-viconnect-e200-flush-plate-matt-chrome-a536162.php) | Reuter (Germany) | <a href="https://raw.githubusercontent.com/pirateZilla/Sanitary-Ware/main/Flush%20Plate.pdf?token=AEUD2R7D3NHUJY5BKGQK76DBC7AS2" target="_blank">Datasheet</a> |
 
 ![toilet](toilet.jpg)
+![wall-toilet]wall-toilet.jpg)
 ![flushplate](flushplate.jpg)
 
 #### Additional Technical Specifications and Manuals
@@ -200,6 +201,7 @@
 | Villeroy & Boch ViConnect E200 flush plate matt chrome | [92249069](https://pro.villeroy-boch.com/en/se/bathroom-and-wellness/product-detail/m/922490.html?tx_mmpdu_profiportal%5Baction%5D=detail&cHash=17459d3a6ebc10416726af7365e6d787) | [€60.01](https://www.reuter.com/villeroy-boch-viconnect-e200-flush-plate-matt-chrome-a536162.php) | Reuter (Germany) | <a href="https://raw.githubusercontent.com/pirateZilla/Sanitary-Ware/main/Flush%20Plate.pdf?token=AEUD2R7D3NHUJY5BKGQK76DBC7AS2" target="_blank">Datasheet</a> |
 
 ![toilet](toilet.jpg)
+![wall-toilet]wall-toilet.jpg)
 ![flushplate](flushplate.jpg)
 
 #### Additional Technical Specifications and Manuals
@@ -262,6 +264,7 @@
 | Villeroy & Boch ViConnect E200 flush plate matt chrome | [92249069](https://pro.villeroy-boch.com/en/se/bathroom-and-wellness/product-detail/m/922490.html?tx_mmpdu_profiportal%5Baction%5D=detail&cHash=17459d3a6ebc10416726af7365e6d787) | [€60.01](https://www.reuter.com/villeroy-boch-viconnect-e200-flush-plate-matt-chrome-a536162.php) | Reuter (Germany) | <a href="https://raw.githubusercontent.com/pirateZilla/Sanitary-Ware/main/Flush%20Plate.pdf?token=AEUD2R7D3NHUJY5BKGQK76DBC7AS2" target="_blank">Datasheet</a> |
 
 ![toilet](toilet.jpg)
+![wall-toilet]wall-toilet.jpg)
 ![flushplate](flushplate.jpg)
 
 #### Additional Technical Specifications and Manuals
