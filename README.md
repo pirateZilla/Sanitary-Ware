@@ -14,9 +14,7 @@
 
 #### Additional Technical Specifications and Manuals
 
-* Item 1
-* Item 2
-* Item 3
+* Placeholder
 
 
 ### Toilet
@@ -53,9 +51,7 @@
 
 #### Additional Technical Specifications and Manuals
 
-* Item 1
-* Item 2
-* Item 3
+* Placeholder
 
 ### Vanity Unit
 
@@ -67,9 +63,7 @@
 
 #### Additional Technical Specifications and Manuals
 
-* Item 1
-* Item 2
-* Item 3
+* Placeholder
 
 ### Mirror
 
@@ -81,9 +75,7 @@
 
 #### Additional Technical Specifications and Manuals
 
-* Item 1
-* Item 2
-* Item 3
+* Placeholder
 
 ### Shower Drain
 
@@ -101,9 +93,7 @@
 
 #### Additional Technical Specifications and Manuals
 
-* Item 1
-* Item 2
-* Item 3
+* Placeholder
 
 ### Radiator
 
@@ -115,9 +105,7 @@
 
 #### Additional Technical Specifications and Manuals
 
-* Item 1
-* Item 2
-* Item 3
+* Placeholder
 
 ### Shower Glass
 
@@ -130,9 +118,7 @@
 
 #### Additional Technical Specifications and Manuals
 
-* Item 1
-* Item 2
-* Item 3
+* Placeholder
 
 ## Main Bathroom
 
@@ -146,9 +132,20 @@
 
 #### Additional Technical Specifications and Manuals
 
-* Item 1
-* Item 2
-* Item 3
+* Placeholder
+
+### Shower Glass
+
+| Product Name                           | Item Number    | Price          | Retailer       | Datasheet      |
+| ---------------------------------------| -------------- | -------------- | -------------- | -------------- |
+| Sogo 4 Clear Glass Shower Screen | [W900160](https://www.bathroomstore.ie/collections/wet-room-shower-screens/products/sogo-4-clear-glass-shower-screen?variant=32071109836842) | [€445.00](https://www.bathroomstore.ie/collections/wet-room-shower-screens/products/sogo-4-clear-glass-shower-screen?variant=32071109836842) | Bathroom Store (Ireland) | <a href="https://raw.githubusercontent.com/pirateZilla/Sanitary-Ware/main/ensuite-shower-glass.pdf" target="_blank">Datasheet</a> |
+
+
+![ensuite-shower-glass](ensuite-shower-glass.jpg)
+
+#### Additional Technical Specifications and Manuals
+
+* Placeholder
 
 ### Sink
 
@@ -167,9 +164,7 @@
 
 #### Additional Technical Specifications and Manuals
 
-* Item 1
-* Item 2
-* Item 3
+* Placeholder
 
 ### Vanity Unit
 
@@ -181,9 +176,7 @@
 
 #### Additional Technical Specifications and Manuals
 
-* Item 1
-* Item 2
-* Item 3
+* Placeholder
 
 ### Mirror
 
@@ -195,9 +188,7 @@
 
 #### Additional Technical Specifications and Manuals
 
-* Item 1
-* Item 2
-* Item 3
+* Placeholder
 
 ### Toilet
 
@@ -224,9 +215,40 @@
 | Grohe Essence floorstanding single lever bath mixer chrome  | [23491001](https://www.grohe.co.uk/en_gb/essence-single-lever-bath-mixer-1-2-floor-mounted-23491001.html) | [€785.49](https://www.reuter.com/grohe-essence-floor-mounted-single-lever-bath-mixer-chrome-a516598.php) | Reuter (Germany) | <a href="https://raw.githubusercontent.com/pirateZilla/Sanitary-Ware/main/bath-mixer.pdf" target="_blank">Datasheet</a> |
 | Grohe Essence floorstanding single lever bath mixer chrome  | [45984001](https://www.grohe.co.uk/en_gb/rough-in-set-45984001.html) | [€309.00](https://www.reuter.com/grohe-installation-set-for-free-standing-bath-fillers-and-bath-mixers-a555628.php) | Reuter (Germany) | <a href="https://raw.githubusercontent.com/pirateZilla/Sanitary-Ware/main/bath-mixer-install.pdf" target="_blank">Datasheet</a> |
 
-![bath](bath.jpg)
+![bath](bath.png)
 ![bath-mixer](bath-mixer.jpg)
 ![bath-mixer-install](bath-mixer-install.jpg)
+
+### Radiator
+
+| Product Name                           | Item Number    | Price          | Retailer       | Datasheet      |
+| ---------------------------------------| -------------- | -------------- | -------------- | -------------- |
+| Sail Chrome Heated Towel Rail  | [00000000](https://www.theradiatorshop.ie/dual-fuel-radiators-ireland/362-sail-chrome-heated-towel-rail-ireland.html#/71-finish-chrome/183-size-1400mmh_x_600mmw_2005btu_588watt/1106-matching_pipe_cover_kit_-pipe_cover_kit_chrome_19_99/1104-add_matching_valves-thermostatic_chrome_valves_straight_29_99/1036-power_options-electric_thermostatic_600_watt_145) | [€566.98](https://www.theradiatorshop.ie/dual-fuel-radiators-ireland/362-sail-chrome-heated-towel-rail-ireland.html#/71-finish-chrome/183-size-1400mmh_x_600mmw_2005btu_588watt/1106-matching_pipe_cover_kit_-pipe_cover_kit_chrome_19_99/1104-add_matching_valves-thermostatic_chrome_valves_straight_29_99/1036-power_options-electric_thermostatic_600_watt_145) | TheRadiatorShop (Ireland) | <a href="https://raw.githubusercontent.com/pirateZilla/Sanitary-Ware/main/ensuite-radiator.pdf" target="_blank">Datasheet</a> |
+
+![mb-rad](mb-rad.jpg)
+
+#### Additional Technical Specifications and Manuals
+
+* Placeholder
+
+### Shower Drain
+
+| Product Name                           | Item Number    | Price          | Retailer       | Datasheet      |
+| ---------------------------------------| -------------- | -------------- | -------------- | -------------- |
+| TECE drainprofile shower channel set brushed stainless steel, L: 100 cm | [671000+673002](https://produktdaten.tece.de/web/tece_DE/lb/tece/KAT03TCDRAINPROFILEDUPRO/TECEdrainprofile%20Duschprofil%2C%201000%20mm%2C%20Edelstahl%20geb%C3%BCrstet/$catalogue/teceData/PR/671000/index.xhtml) | [€414.37](https://www.reuter.com/tece-drainprofile-shower-channel-set-dn-50-brushed-stainless-steel-l-100-cm-a692110.php) | Reuter (Germany) | <a href="https://raw.githubusercontent.com/pirateZilla/Sanitary-Ware/main/Shower-Drains.pdf" target="_blank">Datasheet</a> |
+| OPTIONAL TECE drainprofile feet | [674000](https://produktdaten.tece.de/web/tece_DE/en_GB/tece/KAT03TCDRAINPROZUBEHOER/TECEdrainprofile%20mounting%20feet/PR/674000/index.xhtml) | [€20.39](https://www.reuter.com/tece-drainprofile-feet-a633882.php) | Reuter (Germany) | <a href="https://raw.githubusercontent.com/pirateZilla/Sanitary-Ware/main/drain-feet.pdf" target="_blank">Datasheet</a> |
+| OPTIONAL TECE sound insulation mat Drainbase for TECE drainline, drainprofile and TECE drainboard | [660001](https://produktdaten.tece.de/web/tece_DE/lb/tece/KAT03TCDLZUBEHOER/TECE%20Drainbase%20sound%20insulation%20mat%20for%20Drainline%20and%20Drainboard%20-%20pcs./$catalogue/teceData/PR/660001/index.xhtml) | [€68.41](https://www.reuter.com/tece-sound-insulation-mat-drainbase-for-tece-drainline-drainprofile-and-tece-drainboard-a283167.php) | Reuter (Germany) | <a href="https://raw.githubusercontent.com/pirateZilla/Sanitary-Ware/main/drain-mat.pdf" target="_blank">Datasheet</a> |
+| OPTIONAL Tece drainprofile hair sieve set | [674002](https://produktdaten.tece.de/web/tece_NL/en_GB/tece/KAT03TCDRAINPROZUBEHOER/TECEdrainprofile%20hair%20trap/$catalogue/teceData/PR/674002/index.xhtml) | [€34.02](https://www.reuter.com/tece-drainprofile-hair-sieve-set-a862427.php) | Reuter (Germany) | <a href="https://raw.githubusercontent.com/pirateZilla/Sanitary-Ware/main/drain-hair-spec.jpg" target="_blank">Datasheet</a> |
+
+![Shower-Drains](Shower-Drains.jpg)
+![drain-feet](drain-feet.jpg)
+![drain-hair](drain-hair.jpg)
+![drain-mat](drain-mat.jpg)
+
+#### Additional Technical Specifications and Manuals
+
+* Placeholder
+
 
 ## WC
 
@@ -258,9 +280,38 @@
 
 #### Additional Technical Specifications and Manuals
 
-* Item 1
-* Item 2
-* Item 3
+* Placeholder
+
+### Shower Drain
+
+| Product Name                           | Item Number    | Price          | Retailer       | Datasheet      |
+| ---------------------------------------| -------------- | -------------- | -------------- | -------------- |
+| TECE drainprofile shower channel set brushed stainless steel, L: 100 cm | [671000+673002](https://produktdaten.tece.de/web/tece_DE/lb/tece/KAT03TCDRAINPROFILEDUPRO/TECEdrainprofile%20Duschprofil%2C%201000%20mm%2C%20Edelstahl%20geb%C3%BCrstet/$catalogue/teceData/PR/671000/index.xhtml) | [€414.37](https://www.reuter.com/tece-drainprofile-shower-channel-set-dn-50-brushed-stainless-steel-l-100-cm-a692110.php) | Reuter (Germany) | <a href="https://raw.githubusercontent.com/pirateZilla/Sanitary-Ware/main/Shower-Drains.pdf" target="_blank">Datasheet</a> |
+| OPTIONAL TECE drainprofile feet | [674000](https://produktdaten.tece.de/web/tece_DE/en_GB/tece/KAT03TCDRAINPROZUBEHOER/TECEdrainprofile%20mounting%20feet/PR/674000/index.xhtml) | [€20.39](https://www.reuter.com/tece-drainprofile-feet-a633882.php) | Reuter (Germany) | <a href="https://raw.githubusercontent.com/pirateZilla/Sanitary-Ware/main/drain-feet.pdf" target="_blank">Datasheet</a> |
+| OPTIONAL TECE sound insulation mat Drainbase for TECE drainline, drainprofile and TECE drainboard | [660001](https://produktdaten.tece.de/web/tece_DE/lb/tece/KAT03TCDLZUBEHOER/TECE%20Drainbase%20sound%20insulation%20mat%20for%20Drainline%20and%20Drainboard%20-%20pcs./$catalogue/teceData/PR/660001/index.xhtml) | [€68.41](https://www.reuter.com/tece-sound-insulation-mat-drainbase-for-tece-drainline-drainprofile-and-tece-drainboard-a283167.php) | Reuter (Germany) | <a href="https://raw.githubusercontent.com/pirateZilla/Sanitary-Ware/main/drain-mat.pdf" target="_blank">Datasheet</a> |
+| OPTIONAL Tece drainprofile hair sieve set | [674002](https://produktdaten.tece.de/web/tece_NL/en_GB/tece/KAT03TCDRAINPROZUBEHOER/TECEdrainprofile%20hair%20trap/$catalogue/teceData/PR/674002/index.xhtml) | [€34.02](https://www.reuter.com/tece-drainprofile-hair-sieve-set-a862427.php) | Reuter (Germany) | <a href="https://raw.githubusercontent.com/pirateZilla/Sanitary-Ware/main/drain-hair-spec.jpg" target="_blank">Datasheet</a> |
+
+![Shower-Drains](Shower-Drains.jpg)
+![drain-feet](drain-feet.jpg)
+![drain-hair](drain-hair.jpg)
+![drain-mat](drain-mat.jpg)
+
+#### Additional Technical Specifications and Manuals
+
+* Placeholder
+
+### Shower Glass
+
+| Product Name                           | Item Number    | Price          | Retailer       | Datasheet      |
+| ---------------------------------------| -------------- | -------------- | -------------- | -------------- |
+| Sogo 4 Clear Glass Shower Screen | [800-140-101-70-77](https://www.bathroomstore.ie/collections/wet-room-shower-screens/products/mexen-fox-walk-in-shower-screen-crittall-style?variant=32085797765162) | [€369.95](https://www.bathroomstore.ie/collections/wet-room-shower-screens/products/mexen-fox-walk-in-shower-screen-crittall-style?variant=32085797765162) | Bathroom Store (Ireland) | Datasheet |
+
+
+![wc-shower-glass](wc-shower-glass.jpg)
+
+#### Additional Technical Specifications and Manuals
+
+* Placeholder
 
 ## Cost Table
 
