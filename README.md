@@ -38,9 +38,13 @@
 
 | Product Name                           | Item Number    | Price          | Retailer       | Datasheet      | Quantity |
 | ---------------------------------------| -------------- | -------------- | -------------- | -------------- | -------- |
-| Villeroy & Boch Venticello semi-recessed countertop washbasin white, with CeramicPlus | [411355R1](https://pro.villeroy-boch.com/en/dk/bathroom-and-wellness/products/product-search/washbasins/m/411355.html?tx_mmpdu_profiportal%5Baction%5D=detail&cHash=8083e1b2b1b006fa62f1007564229a51) | [€000.00](linktoretail.com) | Retailer | <a href="https://raw.githubusercontent.com/pirateZilla/Sanitary-Ware/main/Ensuite-Sinks.pdf" target="_blank">Datasheet</a> | 2 |
+| Villeroy & Boch Venticello semi-recessed countertop washbasin white, with CeramicPlus | [411355R1](https://pro.villeroy-boch.com/en/dk/bathroom-and-wellness/products/product-search/washbasins/m/411355.html?tx_mmpdu_profiportal%5Baction%5D=detail&cHash=8083e1b2b1b006fa62f1007564229a51) | [€254.45](https://www.reuter.com/villeroy-boch-venticello-semi-recessed-countertop-washbasin-w-55-h-10-d-36-cm-w-overflow-white-with-ceramicplus-a501004.php) | Reuter (Germany) | <a href="https://raw.githubusercontent.com/pirateZilla/Sanitary-Ware/main/Ensuite-Sinks.pdf" target="_blank">Datasheet</a> | 2 |
+| PREMIUM Universal waste valve with accumulation function, with ceramic cap | [PR1004](https://www.reuter.com/premium-universal-waste-valve-with-accumulation-function-with-ceramic-cap-a698914.php) | [€52.64](https://www.reuter.com/premium-universal-waste-valve-with-accumulation-function-with-ceramic-cap-a698914.php) | Reuter (Germany) | <a href="https://raw.githubusercontent.com/pirateZilla/Sanitary-Ware/main/stoppers.pdf" target="_blank">Datasheet</a> | 2 |
+| PREMIUM Universal compact siphon with siphon connection sleeves | [PR1007](https://www.reuter.com/premium-universal-compact-siphon-with-siphon-connection-sleeves-a800888.php) | [€66.44](https://www.reuter.com/premium-universal-compact-siphon-with-siphon-connection-sleeves-a800888.php) | Reuter (Germany) | <a href="https://raw.githubusercontent.com/pirateZilla/Sanitary-Ware/main/siphon.pdf" target="_blank">Datasheet</a> | 2 |
 
-![photo](photo-template.jpg)
+![ensuite-sink](ensuite-sink.jpg)
+![stopper](stopper.jpg)
+![siphon](siphon.jpg)
 
 #### Additional Technical Specifications and Manuals
 
