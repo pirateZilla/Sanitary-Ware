@@ -40,7 +40,7 @@
 
 | Product Name                           | Item Number    | Price          | Retailer       | Datasheet      | Quantity |
 | ---------------------------------------| -------------- | -------------- | -------------- | -------------- | -------- |
-| Villeroy & Boch Venticello semi-recessed countertop washbasin white, with CeramicPlus | [411355R1](https://pro.villeroy-boch.com/en/dk/bathroom-and-wellness/products/product-search/washbasins/m/411355.html?tx_mmpdu_profiportal%5Baction%5D=detail&cHash=8083e1b2b1b006fa62f1007564229a51) | [€254.45](https://www.reuter.com/villeroy-boch-venticello-semi-recessed-countertop-washbasin-w-55-h-10-d-36-cm-w-overflow-white-with-ceramicplus-a501004.php) | Reuter (Germany) | <a href="https://raw.githubusercontent.com/pirateZilla/Sanitary-Ware/main/Ensuite-Sinks.pdf" target="_blank">Datasheet</a> | 2 |
+| Villeroy & Boch Venticello semi-recessed countertop washbasin white, with CeramicPlus | [411355R1](https://pro.villeroy-boch.com/en/dk/bathroom-and-wellness/products/product-search/washbasins/m/411355.html?tx_mmpdu_profiportal%5Baction%5D=detail&cHash=8083e1b2b1b006fa62f1007564229a51) | [€254.45](https://www.reuter.com/villeroy-boch-venticello-semi-recessed-countertop-washbasin-w-55-h-10-d-36-cm-w-overflow-white-with-ceramicplus-a501004.php) | Reuter (Germany) | <a href="https://raw.githubusercontent.com/pirateZilla/Sanitary-Ware/main/MB-ES-Sink.pdf" target="_blank">Datasheet</a> | 2 |
 | Grohe Eurosmart Cosmopolitan single lever basin mixer, Zero, L size with pop-up waste set | [32830001](https://www.grohe.co.uk/en_gb/eurosmart-cosmopolitan-single-lever-basin-mixer-1-2-l-size-32830001.html) | [€95.61](https://www.reuter.com/grohe-eurosmart-cosmopolitan-single-lever-basin-mixer-zero-l-size-with-pop-up-waste-set-a734559.php) | Reuter (Germany) | <a href="https://raw.githubusercontent.com/pirateZilla/Sanitary-Ware/main/sink-tap.pdf" target="_blank">Datasheet</a> | 2 |
 | PREMIUM Universal waste valve with accumulation function, with ceramic cap | [PR1004](https://www.reuter.com/premium-universal-waste-valve-with-accumulation-function-with-ceramic-cap-a698914.php) | [€52.64](https://www.reuter.com/premium-universal-waste-valve-with-accumulation-function-with-ceramic-cap-a698914.php) | Reuter (Germany) | <a href="https://raw.githubusercontent.com/pirateZilla/Sanitary-Ware/main/stoppers.pdf" target="_blank">Datasheet</a> | 2 |
 | PREMIUM Universal compact siphon with siphon connection sleeves | [PR1007](https://www.reuter.com/premium-universal-compact-siphon-with-siphon-connection-sleeves-a800888.php) | [€66.44](https://www.reuter.com/premium-universal-compact-siphon-with-siphon-connection-sleeves-a800888.php) | Reuter (Germany) | <a href="https://raw.githubusercontent.com/pirateZilla/Sanitary-Ware/main/siphon.pdf" target="_blank">Datasheet</a> | 2 |
@@ -109,9 +109,9 @@
 
 | Product Name                           | Item Number    | Price          | Retailer       | Datasheet      |
 | ---------------------------------------| -------------- | -------------- | -------------- | -------------- |
-| Product Name | [00000000](linktomanufacturer.com) | [€000.00](linktoretail.com) | Retailer | [Datasheet](rawpdf.com) |
+| Fiore Vertical Designer Radiator | [00000000](https://www.theradiatorshop.ie/heated-towel-rails-ireland/532-fiore-vertical-designer-radiator.html) | [€499.00](https://www.theradiatorshop.ie/heated-towel-rails-ireland/532-fiore-vertical-designer-radiator.html) | TheRadiatorShop (Ireland) | <a href="https://raw.githubusercontent.com/pirateZilla/Sanitary-Ware/main/ensuite-radiator.pdf" target="_blank">Datasheet</a> |
 
-![photo](photo-template.jpg)
+![ensuite-radiator](ensuite-radiator.jpg)
 
 #### Additional Technical Specifications and Manuals
 
@@ -123,9 +123,10 @@
 
 | Product Name                           | Item Number    | Price          | Retailer       | Datasheet      |
 | ---------------------------------------| -------------- | -------------- | -------------- | -------------- |
-| Product Name | [00000000](linktomanufacturer.com) | [€000.00](linktoretail.com) | Retailer | [Datasheet](rawpdf.com) |
+| Sogo 4 Clear Glass Shower Screen | [W900160](https://www.bathroomstore.ie/collections/wet-room-shower-screens/products/sogo-4-clear-glass-shower-screen?variant=32071109836842) | [€445.00](https://www.bathroomstore.ie/collections/wet-room-shower-screens/products/sogo-4-clear-glass-shower-screen?variant=32071109836842) | Bathroom Store (Ireland) | <a href="https://raw.githubusercontent.com/pirateZilla/Sanitary-Ware/main/ensuite-shower-glass.pdf" target="_blank">Datasheet</a> |
 
-![photo](photo-template.jpg)
+
+![ensuite-shower-glass](ensuite-shower-glass.jpg)
 
 #### Additional Technical Specifications and Manuals
 
@@ -139,9 +140,9 @@
 
 | Product Name                           | Item Number    | Price          | Retailer       | Datasheet      |
 | ---------------------------------------| -------------- | -------------- | -------------- | -------------- |
-| Product Name | [00000000](linktomanufacturer.com) | [€000.00](linktoretail.com) | Retailer | [Datasheet](rawpdf.com) |
+| Grohe Grohtherm concealed shower system, square with Tempesta 210 overhead shower | [34729000](https://www.grohe.co.uk/en_gb/grohtherm-perfect-shower-set-with-tempesta-210-34729000.html) | [€495.05](linktoretail.com) | Reuter (Germany) | <a href="https://raw.githubusercontent.com/pirateZilla/Sanitary-Ware/main/MB-WC-Shower.pdf" target="_blank">Datasheet</a> |
 
-![photo](photo-template.jpg)
+![MB-WC-Shower](MB-WC-Shower.jpg)
 
 #### Additional Technical Specifications and Manuals
 
@@ -153,9 +154,16 @@
 
 | Product Name                           | Item Number    | Price          | Retailer       | Datasheet      |
 | ---------------------------------------| -------------- | -------------- | -------------- | -------------- |
-| Product Name | [00000000](linktomanufacturer.com) | [€000.00](linktoretail.com) | Retailer | [Datasheet](rawpdf.com) |
+| Villeroy & Boch Venticello semi-recessed countertop washbasin white, with CeramicPlus | [411355R1](https://pro.villeroy-boch.com/en/dk/bathroom-and-wellness/products/product-search/washbasins/m/411355.html?tx_mmpdu_profiportal%5Baction%5D=detail&cHash=8083e1b2b1b006fa62f1007564229a51) | [€254.45](https://www.reuter.com/villeroy-boch-venticello-semi-recessed-countertop-washbasin-w-55-h-10-d-36-cm-w-overflow-white-with-ceramicplus-a501004.php) | Reuter (Germany) | <a href="https://raw.githubusercontent.com/pirateZilla/Sanitary-Ware/main/MB-ES-Sink.pdf" target="_blank">Datasheet</a> |
+| Grohe Eurosmart Cosmopolitan single lever basin mixer, Zero, L size with pop-up waste set | [32830001](https://www.grohe.co.uk/en_gb/eurosmart-cosmopolitan-single-lever-basin-mixer-1-2-l-size-32830001.html) | [€95.61](https://www.reuter.com/grohe-eurosmart-cosmopolitan-single-lever-basin-mixer-zero-l-size-with-pop-up-waste-set-a734559.php) | Reuter (Germany) | <a href="https://raw.githubusercontent.com/pirateZilla/Sanitary-Ware/main/sink-tap.pdf" target="_blank">Datasheet</a> |
+| PREMIUM Universal waste valve with accumulation function, with ceramic cap | [PR1004](https://www.reuter.com/premium-universal-waste-valve-with-accumulation-function-with-ceramic-cap-a698914.php) | [€52.64](https://www.reuter.com/premium-universal-waste-valve-with-accumulation-function-with-ceramic-cap-a698914.php) | Reuter (Germany) | <a href="https://raw.githubusercontent.com/pirateZilla/Sanitary-Ware/main/stoppers.pdf" target="_blank">Datasheet</a> |
+| PREMIUM Universal compact siphon with siphon connection sleeves | [PR1007](https://www.reuter.com/premium-universal-compact-siphon-with-siphon-connection-sleeves-a800888.php) | [€66.44](https://www.reuter.com/premium-universal-compact-siphon-with-siphon-connection-sleeves-a800888.php) | Reuter (Germany) | <a href="https://raw.githubusercontent.com/pirateZilla/Sanitary-Ware/main/siphon.pdf" target="_blank">Datasheet</a> |
 
-![photo](photo-template.jpg)
+
+![ensuite-sink](ensuite-sink.jpg)
+![sink-tap](sink-tap.jpg)
+![stopper](stopper.jpg)
+![siphon](siphon.jpg)
 
 #### Additional Technical Specifications and Manuals
 
@@ -210,7 +218,15 @@
 
 ### Bath
 
+| Product Name                           | Item Number    | Price          | Retailer       | Datasheet      |
+| ---------------------------------------| -------------- | -------------- | -------------- | -------------- |
+| Viktor Benson Ari 1800mm Modern Freestanding Double Ended Bath (19984) White Acrylic  | [BT-49-1800](https://www.bathshack.com/viktor-benson-ari-1800mm-modern-freestanding-double-ended-bath.html) | [€899.00](https://www.bathshack.com/viktor-benson-ari-1800mm-modern-freestanding-double-ended-bath.html) | Bath Shack (Ireland) | [Datasheet](bath-spec.webp)] |
+| Grohe Essence floorstanding single lever bath mixer chrome  | [23491001](https://www.grohe.co.uk/en_gb/essence-single-lever-bath-mixer-1-2-floor-mounted-23491001.html) | [€785.49](https://www.reuter.com/grohe-essence-floor-mounted-single-lever-bath-mixer-chrome-a516598.php) | Reuter (Germany) | <a href="https://raw.githubusercontent.com/pirateZilla/Sanitary-Ware/main/bath-mixer.pdf" target="_blank">Datasheet</a> |
+| Grohe Essence floorstanding single lever bath mixer chrome  | [45984001](https://www.grohe.co.uk/en_gb/rough-in-set-45984001.html) | [€309.00](https://www.reuter.com/grohe-installation-set-for-free-standing-bath-fillers-and-bath-mixers-a555628.php) | Reuter (Germany) | <a href="https://raw.githubusercontent.com/pirateZilla/Sanitary-Ware/main/bath-mixer-install.pdf" target="_blank">Datasheet</a> |
 
+![bath](bath.jpg)
+![bath-mixer](bath-mixer.jpg)
+![bath-mixer-install](bath-mixer-install.jpg)
 
 ## WC
 
@@ -230,6 +246,21 @@
 * <a href="https://raw.githubusercontent.com/pirateZilla/Sanitary-Ware/main/Toilet-Ceramic-Bowl.pdf?token=AEUD2RYLWWYVKU4VXP7S2RLBC7ASY" target="_blank">Toilet Bowl Datasheet</a>
 * <a href="https://raw.githubusercontent.com/pirateZilla/Sanitary-Ware/main/Toilet-Seat.pdf?token=AEUD2RYBDR3V7PZ5SYU5PQ3BC7ASW" target="_blank">Toilet Seat Datasheet</a>
 * <a href="https://raw.githubusercontent.com/pirateZilla/Sanitary-Ware/main/Flush%20Plate.pdf?token=AEUD2R7D3NHUJY5BKGQK76DBC7AS2" target="_blank">Flushplate Datasheet</a>
+
+
+### Shower
+
+| Product Name                           | Item Number    | Price          | Retailer       | Datasheet      |
+| ---------------------------------------| -------------- | -------------- | -------------- | -------------- |
+| Grohe Grohtherm concealed shower system, square with Tempesta 210 overhead shower | [34729000](https://www.grohe.co.uk/en_gb/grohtherm-perfect-shower-set-with-tempesta-210-34729000.html) | [€495.05](linktoretail.com) | Reuter (Germany) | <a href="https://raw.githubusercontent.com/pirateZilla/Sanitary-Ware/main/MB-WC-Shower.pdf" target="_blank">Datasheet</a> |
+
+![MB-WC-Shower](MB-WC-Shower.jpg)
+
+#### Additional Technical Specifications and Manuals
+
+* Item 1
+* Item 2
+* Item 3
 
 ## Cost Table
 
