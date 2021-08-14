@@ -7,8 +7,10 @@
 | Product Name                           | Item Number    | Price          | Retailer       | Datasheet      |
 | ---------------------------------------| -------------- | -------------- | -------------- | -------------- |
 | Grohe Grohtherm SmartControl shower system with thermostat & Rainshower 310 SmartActive Cube overhead shower | [34706000](https://www.grohe.co.uk/en_gb/grohtherm-smartcontrol-perfect-shower-set-with-rainshower-smartactive-310-cube-34706000.html) | [€827.89](https://www.reuter.com/grohe-grohtherm-smartcontrol-shower-system-with-thermostat-rainshower-310-smartactive-cube-overhead-shower-a628231.php) | Reuter (Germany) | <a href="https://raw.githubusercontent.com/pirateZilla/Sanitary-Ware/main/Ensuite-Shower-System.pdf?token=AEUD2R6JVWD7D4RX6XWN3L3BC65VE" target="_blank">Datasheet</a> |
+| Grohe Power & Soul Cosmopolitan hand shower Ø 160 mm with flow rate function 9.4 l/min | [27668000](https://www.grohe.co.uk/en_gb/power-soul-cosmopolitan-160-hand-shower-4-sprays-27668000.html) | [€93.54](https://www.reuter.com/grohe-power-soul-cosmopolitan-hand-shower--160-mm-with-flow-rate-function-94-l-min-a377265.php | Reuter (Germany) | <a href="https://raw.githubusercontent.com/pirateZilla/Sanitary-Ware/main/spare-head.pdf" target="_blank">Datasheet</a> |
 
 ![ensuite-shower1 image](ensuite-shower1.jpg)
+![spare-head](spare-head.jpg)
 
 #### Additional Technical Specifications and Manuals
 
