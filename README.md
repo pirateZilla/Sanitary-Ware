@@ -10,6 +10,8 @@
 
 ![ensuite-shower1 image](ensuite-shower1.jpg)
 
+#### Additional Technical Specifications and Manuals
+
 
 ### Toilet
 
