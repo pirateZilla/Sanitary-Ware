@@ -327,6 +327,25 @@
 
 * Placeholder
 
+### Sink
+
+| Product Name                           | Item Number    | Price          | Retailer       | Datasheet      |
+| ---------------------------------------| -------------- | -------------- | -------------- | -------------- |
+| Villeroy & Boch Loop & Friends countertop basin, oval white, with CeramicPlus, with overflow | [515100R1](https://www.reuter.com/villeroy-boch-loop-friends-countertop-washbasin-w-585-h-11-d-38-cm-white-with-ceramicplus-with-overflow-a184633.php) | [€370.19](https://www.reuter.com/villeroy-boch-loop-friends-countertop-washbasin-w-585-h-11-d-38-cm-white-with-ceramicplus-with-overflow-a184633.php) | Reuter (Germany) | <a href="https://raw.githubusercontent.com/pirateZilla/Sanitary-Ware/main/wc-sink.pdf" target="_blank">Datasheet</a> |
+| Grohe Eurosmart Cosmopolitan single lever basin mixer, Zero, L size with pop-up waste set | [32830001](https://www.grohe.co.uk/en_gb/eurosmart-cosmopolitan-single-lever-basin-mixer-1-2-l-size-32830001.html) | [€95.61](https://www.reuter.com/grohe-eurosmart-cosmopolitan-single-lever-basin-mixer-zero-l-size-with-pop-up-waste-set-a734559.php) | Reuter (Germany) | <a href="https://raw.githubusercontent.com/pirateZilla/Sanitary-Ware/main/sink-tap.pdf" target="_blank">Datasheet</a> |
+| PREMIUM Universal waste valve with accumulation function, with ceramic cap | [PR1004](https://www.reuter.com/premium-universal-waste-valve-with-accumulation-function-with-ceramic-cap-a698914.php) | [€52.64](https://www.reuter.com/premium-universal-waste-valve-with-accumulation-function-with-ceramic-cap-a698914.php) | Reuter (Germany) | <a href="https://raw.githubusercontent.com/pirateZilla/Sanitary-Ware/main/stoppers.pdf" target="_blank">Datasheet</a> |
+| PREMIUM Universal compact siphon with siphon connection sleeves | [PR1007](https://www.reuter.com/premium-universal-compact-siphon-with-siphon-connection-sleeves-a800888.php) | [€66.44](https://www.reuter.com/premium-universal-compact-siphon-with-siphon-connection-sleeves-a800888.php) | Reuter (Germany) | <a href="https://raw.githubusercontent.com/pirateZilla/Sanitary-Ware/main/siphon.pdf" target="_blank">Datasheet</a> |
+
+
+![wc-sink](wc-sink.jpg)
+![sink-tap](sink-tap.jpg)
+![stopper](stopper.jpg)
+![siphon](siphon.jpg)
+
+#### Additional Technical Specifications and Manuals
+
+* Placeholder
+
 ### Vanity Unit
 
 | Product Name                           | Item Number    | Price          | Retailer       | Datasheet      |
