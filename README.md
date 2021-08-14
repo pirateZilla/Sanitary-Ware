@@ -87,9 +87,15 @@
 
 | Product Name                           | Item Number    | Price          | Retailer       | Datasheet      |
 | ---------------------------------------| -------------- | -------------- | -------------- | -------------- |
-| Product Name | [00000000](linktomanufacturer.com) | [€000.00](linktoretail.com) | Retailer | [Datasheet](rawpdf.com) |
+| TECE drainprofile shower channel set brushed stainless steel, L: 100 cm | [671000+673002](https://produktdaten.tece.de/web/tece_DE/lb/tece/KAT03TCDRAINPROFILEDUPRO/TECEdrainprofile%20Duschprofil%2C%201000%20mm%2C%20Edelstahl%20geb%C3%BCrstet/$catalogue/teceData/PR/671000/index.xhtml) | [€414.37](https://www.reuter.com/tece-drainprofile-shower-channel-set-dn-50-brushed-stainless-steel-l-100-cm-a692110.php) | Reuter (Germany) | <a href="https://raw.githubusercontent.com/pirateZilla/Sanitary-Ware/main/Shower-Drains.pdf" target="_blank">Datasheet</a> |
+| OPTIONAL TECE drainprofile feet | [674000](https://produktdaten.tece.de/web/tece_DE/en_GB/tece/KAT03TCDRAINPROZUBEHOER/TECEdrainprofile%20mounting%20feet/PR/674000/index.xhtml) | [€20.39](https://www.reuter.com/tece-drainprofile-feet-a633882.php) | Reuter (Germany) | <a href="https://raw.githubusercontent.com/pirateZilla/Sanitary-Ware/main/drain-feet.pdf" target="_blank">Datasheet</a> |
+| OPTIONAL TECE sound insulation mat Drainbase for TECE drainline, drainprofile and TECE drainboard | [660001](https://produktdaten.tece.de/web/tece_DE/lb/tece/KAT03TCDLZUBEHOER/TECE%20Drainbase%20sound%20insulation%20mat%20for%20Drainline%20and%20Drainboard%20-%20pcs./$catalogue/teceData/PR/660001/index.xhtml) | [€68.41](https://www.reuter.com/tece-sound-insulation-mat-drainbase-for-tece-drainline-drainprofile-and-tece-drainboard-a283167.php) | Reuter (Germany) | <a href="https://raw.githubusercontent.com/pirateZilla/Sanitary-Ware/main/drain-mat.pdf" target="_blank">Datasheet</a> |
+| OPTIONAL Tece drainprofile hair sieve set | [674002](https://produktdaten.tece.de/web/tece_NL/en_GB/tece/KAT03TCDRAINPROZUBEHOER/TECEdrainprofile%20hair%20trap/$catalogue/teceData/PR/674002/index.xhtml) | [€34.02](https://www.reuter.com/tece-drainprofile-hair-sieve-set-a862427.php) | Reuter (Germany) | <a href="https://raw.githubusercontent.com/pirateZilla/Sanitary-Ware/main/drain-hair-spec.jpg" target="_blank">Datasheet</a> |
 
-![photo](photo-template.jpg)
+![Shower-Drains](Shower-Drains.jpg)
+![drain-feet](drain-feet.jpg)
+![drain-hair](drain-hair.jpg)
+![drain-mat](drain-mat.jpg)
 
 #### Additional Technical Specifications and Manuals
 
