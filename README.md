@@ -14,7 +14,14 @@
 
 #### Additional Technical Specifications and Manuals
 
-* Placeholder
+* <a href="https://raw.githubusercontent.com/pirateZilla/Sanitary-Ware/main/spare-head.pdf" target="_blank">Technical Product Information 1</a>
+* <a href="https://raw.githubusercontent.com/pirateZilla/Sanitary-Ware/main/spare-head.pdf" target="_blank">Technical Product Information 2</a>
+* <a href="https://raw.githubusercontent.com/pirateZilla/Sanitary-Ware/main/spare-head.pdf" target="_blank">Technical Product Information 3</a>
+* <a href="https://raw.githubusercontent.com/pirateZilla/Sanitary-Ware/main/spare-head.pdf" target="_blank">Technical Product Information 4</a>
+* <a href="https://raw.githubusercontent.com/pirateZilla/Sanitary-Ware/main/spare-head.pdf" target="_blank">Technical Product Information 5</a>
+* <a href="https://raw.githubusercontent.com/pirateZilla/Sanitary-Ware/main/spare-head.pdf" target="_blank">Technical Product Information 6</a>
+* <a href="https://raw.githubusercontent.com/pirateZilla/Sanitary-Ware/main/spare-head.pdf" target="_blank">Technical Product Information 7</a>
+* <a href="https://raw.githubusercontent.com/pirateZilla/Sanitary-Ware/main/spare-head.pdf" target="_blank">Technical Product Information 8</a>
 
 
 ### Toilet
