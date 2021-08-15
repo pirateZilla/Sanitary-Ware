@@ -106,7 +106,12 @@
 
 #### Additional Technical Specifications and Manuals
 
-* Placeholder
+* <a href="https://raw.githubusercontent.com/pirateZilla/Sanitary-Ware/main/Shower-Drains.pdf" target="_blank">Drain Datasheet</a>
+* <a href="https://raw.githubusercontent.com/pirateZilla/Sanitary-Ware/main/drain.pdf" target="_blank">Drain Assembly Instructions</a>
+* <a href="https://raw.githubusercontent.com/pirateZilla/Sanitary-Ware/main/drain-hair-spec.jpg" target="_blank">Drain Filter Datasheet</a>
+* <a href="https://raw.githubusercontent.com/pirateZilla/Sanitary-Ware/main/drain-mat.pdf" target="_blank">Drain Mat Datasheet</a>
+* <a href="https://raw.githubusercontent.com/pirateZilla/Sanitary-Ware/main/drain-feet.pdf" target="_blank">Drain Feet Datasheet</a>
+
 
 ### Radiator
 
@@ -118,7 +123,8 @@
 
 #### Additional Technical Specifications and Manuals
 
-* Placeholder
+* <a href="https://raw.githubusercontent.com/pirateZilla/Sanitary-Ware/main/ensuite-radiator.pdf" target="_blank"> Radiator Datasheet</a>
+* Radiator designed for "wet system", may not be suitable. To discuss.
 
 ### Shower Glass
 
@@ -131,7 +137,8 @@
 
 #### Additional Technical Specifications and Manuals
 
-* Placeholder
+* <a href="https://raw.githubusercontent.com/pirateZilla/Sanitary-Ware/main/ensuite-shower-glass.pdf" target="_blank">Shower Glass Datasheet</a>
+* 1600mm width.
 
 ## Main Bathroom
 
@@ -145,7 +152,10 @@
 
 #### Additional Technical Specifications and Manuals
 
-* Placeholder
+* <a href="https://raw.githubusercontent.com/pirateZilla/Sanitary-Ware/main/mb-wc-shower/1.pdf" target="_blank">Grohtherm concealed shower Technical Product Information 1</a>
+* <a href="https://raw.githubusercontent.com/pirateZilla/Sanitary-Ware/main/mb-wc-shower/2.pdf" target="_blank">Grohtherm concealed shower Technical Product Information 2</a>
+* <a href="https://raw.githubusercontent.com/pirateZilla/Sanitary-Ware/main/mb-wc-shower/3.pdf" target="_blank">Grohtherm concealed shower Technical Product Information 3</a>
+* <a href="https://raw.githubusercontent.com/pirateZilla/Sanitary-Ware/main/mb-wc-shower/1.jpg" target="_blank">Grohtherm concealed shower Technical Product Information 4</a>
 
 ### Shower Glass
 
@@ -158,7 +168,8 @@
 
 #### Additional Technical Specifications and Manuals
 
-* Placeholder
+* <a href="https://raw.githubusercontent.com/pirateZilla/Sanitary-Ware/main/ensuite-shower-glass.pdf" target="_blank">Shower Glass Datasheet</a>
+* 1600mm width.
 
 ### Sink
 
@@ -193,7 +204,7 @@
 
 #### Additional Technical Specifications and Manuals
 
-* Placeholder
+* <a href="https://raw.githubusercontent.com/pirateZilla/Sanitary-Ware/main/mb-counter.pdf" target="_blank">Ikea vanity unit Datasheet</a>
 
 ### Mirror
 
@@ -230,13 +241,24 @@
 
 | Product Name                           | Item Number    | Price          | Retailer       | Datasheet      |
 | ---------------------------------------| -------------- | -------------- | -------------- | -------------- |
-| Viktor Benson Ari 1800mm Modern Freestanding Double Ended Bath (19984) White Acrylic  | [BT-49-1800](https://www.bathshack.com/viktor-benson-ari-1800mm-modern-freestanding-double-ended-bath.html) | [€899.00](https://www.bathshack.com/viktor-benson-ari-1800mm-modern-freestanding-double-ended-bath.html) | Bath Shack (Ireland) | [Datasheet](bath-spec.webp)] |
+| Viktor Benson Ari 1800mm Modern Freestanding Double Ended Bath (19984) White Acrylic  | [BT-49-1800](https://www.bathshack.com/viktor-benson-ari-1800mm-modern-freestanding-double-ended-bath.html) | [€899.00](https://www.bathshack.com/viktor-benson-ari-1800mm-modern-freestanding-double-ended-bath.html) | Bath Shack (Ireland) | [Datasheet](bath-spec.webp) |
 | Grohe Essence floorstanding single lever bath mixer chrome  | [23491001](https://www.grohe.co.uk/en_gb/essence-single-lever-bath-mixer-1-2-floor-mounted-23491001.html) | [€785.49](https://www.reuter.com/grohe-essence-floor-mounted-single-lever-bath-mixer-chrome-a516598.php) | Reuter (Germany) | <a href="https://raw.githubusercontent.com/pirateZilla/Sanitary-Ware/main/bath-mixer.pdf" target="_blank">Datasheet</a> |
 | Grohe installation set for free-standing bath fillers and bath mixers  | [45984001](https://www.grohe.co.uk/en_gb/rough-in-set-45984001.html) | [€309.00](https://www.reuter.com/grohe-installation-set-for-free-standing-bath-fillers-and-bath-mixers-a555628.php) | Reuter (Germany) | <a href="https://raw.githubusercontent.com/pirateZilla/Sanitary-Ware/main/bath-mixer-install.pdf" target="_blank">Datasheet</a> |
 
 ![bath](bath.png)
 ![bath-mixer](bath-mixer.jpg)
 ![bath-mixer-install](bath-mixer-install.jpg)
+
+#### Additional Technical Specifications and Manuals
+
+* [Bath Datasheet](bath-spec.webp)
+* <a href="https://raw.githubusercontent.com/pirateZilla/Sanitary-Ware/main/bath-mixer.pdf" target="_blank">Bath Mixer Datasheet</a>
+* <a href="https://raw.githubusercontent.com/pirateZilla/Sanitary-Ware/main/bath/1.jpg" target="_blank">Bath Mixer Dimensions</a>
+* <a href="https://raw.githubusercontent.com/pirateZilla/Sanitary-Ware/main/bath/3.pdf" target="_blank">Bath Mixer Technical Product Information 1</a>
+* <a href="https://raw.githubusercontent.com/pirateZilla/Sanitary-Ware/main/bath/4.pdf" target="_blank">Bath Mixer Technical Product Information 2</a>
+* <a href="https://raw.githubusercontent.com/pirateZilla/Sanitary-Ware/main/bath-mixer-install.pdf" target="_blank">Bath Mixer Installation Kit Datasheet</a>
+* <a href="https://raw.githubusercontent.com/pirateZilla/Sanitary-Ware/main/bath/2.jpg" target="_blank">Bath Mixer Installation Kit Dimensions</a>
+* <a href="https://raw.githubusercontent.com/pirateZilla/Sanitary-Ware/main/bath/5.pdf" target="_blank">Bath Mixer Installation Kit Technical Product Information</a>
 
 ### Radiator
 
@@ -248,7 +270,8 @@
 
 #### Additional Technical Specifications and Manuals
 
-* Placeholder
+* <a href="https://raw.githubusercontent.com/pirateZilla/Sanitary-Ware/main/ensuite-radiator.pdf" target="_blank">Radiator Datasheet</a>
+* Check Power Option Choice and Optional Extras
 
 ### Shower Drain
 
@@ -266,7 +289,11 @@
 
 #### Additional Technical Specifications and Manuals
 
-* Placeholder
+* <a href="https://raw.githubusercontent.com/pirateZilla/Sanitary-Ware/main/Shower-Drains.pdf" target="_blank">Drain Datasheet</a>
+* <a href="https://raw.githubusercontent.com/pirateZilla/Sanitary-Ware/main/drain.pdf" target="_blank">Drain Assembly Instructions</a>
+* <a href="https://raw.githubusercontent.com/pirateZilla/Sanitary-Ware/main/drain-hair-spec.jpg" target="_blank">Drain Filter Datasheet</a>
+* <a href="https://raw.githubusercontent.com/pirateZilla/Sanitary-Ware/main/drain-mat.pdf" target="_blank">Drain Mat Datasheet</a>
+* <a href="https://raw.githubusercontent.com/pirateZilla/Sanitary-Ware/main/drain-feet.pdf" target="_blank">Drain Feet Datasheet</a>
 
 
 ## WC
@@ -300,7 +327,10 @@
 
 #### Additional Technical Specifications and Manuals
 
-* Placeholder
+* <a href="https://raw.githubusercontent.com/pirateZilla/Sanitary-Ware/main/mb-wc-shower/1.pdf" target="_blank">Grohtherm concealed shower Technical Product Information 1</a>
+* <a href="https://raw.githubusercontent.com/pirateZilla/Sanitary-Ware/main/mb-wc-shower/2.pdf" target="_blank">Grohtherm concealed shower Technical Product Information 2</a>
+* <a href="https://raw.githubusercontent.com/pirateZilla/Sanitary-Ware/main/mb-wc-shower/3.pdf" target="_blank">Grohtherm concealed shower Technical Product Information 3</a>
+* <a href="https://raw.githubusercontent.com/pirateZilla/Sanitary-Ware/main/mb-wc-shower/1.jpg" target="_blank">Grohtherm concealed shower Technical Product Information 4</a>
 
 ### Shower Drain
 
@@ -318,7 +348,11 @@
 
 #### Additional Technical Specifications and Manuals
 
-* Placeholder
+* <a href="https://raw.githubusercontent.com/pirateZilla/Sanitary-Ware/main/Shower-Drains.pdf" target="_blank">Drain Datasheet</a>
+* <a href="https://raw.githubusercontent.com/pirateZilla/Sanitary-Ware/main/drain.pdf" target="_blank">Drain Assembly Instructions</a>
+* <a href="https://raw.githubusercontent.com/pirateZilla/Sanitary-Ware/main/drain-hair-spec.jpg" target="_blank">Drain Filter Datasheet</a>
+* <a href="https://raw.githubusercontent.com/pirateZilla/Sanitary-Ware/main/drain-mat.pdf" target="_blank">Drain Mat Datasheet</a>
+* <a href="https://raw.githubusercontent.com/pirateZilla/Sanitary-Ware/main/drain-feet.pdf" target="_blank">Drain Feet Datasheet</a>
 
 ### Shower Glass
 
@@ -329,10 +363,6 @@
 
 ![wc-shower-glass](wc-shower-glass.jpg)
 
-#### Additional Technical Specifications and Manuals
-
-* Placeholder
-
 ### Mirror
 
 | Product Name                           | Item Number    | Price          | Retailer       | Datasheet      |
@@ -340,10 +370,6 @@
 | IKEA STOCKHOLM | [602.499.60](https://www.ikea.com/ie/en/p/stockholm-mirror-walnut-veneer-60249960/) | [€90](https://www.ikea.com/ie/en/p/stockholm-mirror-walnut-veneer-60249960/) | IKEA (Ireland) | Datasheet |
 
 ![wc-mirror](wc-mirror.webp)
-
-#### Additional Technical Specifications and Manuals
-
-* Placeholder
 
 ### Sink
 
@@ -362,7 +388,10 @@
 
 #### Additional Technical Specifications and Manuals
 
-* Placeholder
+* <a href="https://raw.githubusercontent.com/pirateZilla/Sanitary-Ware/main/ensuite-sink/1.pdf" target="_blank">Tap Datasheet </a>
+* <a href="https://raw.githubusercontent.com/pirateZilla/Sanitary-Ware/main/wc-sink.pdf" target="_blank">Sink Datasheet</a>
+* <a href="https://raw.githubusercontent.com/pirateZilla/Sanitary-Ware/main/siphon.pdf" target="_blank">Siphon Datasheet</a>
+* <a href="https://raw.githubusercontent.com/pirateZilla/Sanitary-Ware/main/stoppers.pdf" target="_blank">Stopper Datasheet</a>
 
 ### Vanity Unit
 
@@ -375,7 +404,7 @@
 
 #### Additional Technical Specifications and Manuals
 
-* Placeholder
+* <a href="https://raw.githubusercontent.com/pirateZilla/Sanitary-Ware/main/wc-counter" target="_blank">Vanity Datasheet</a>
 
 
 ## Cost Table
