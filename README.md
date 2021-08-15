@@ -61,7 +61,10 @@
 
 #### Additional Technical Specifications and Manuals
 
-* Placeholder
+* <a href="https://raw.githubusercontent.com/pirateZilla/Sanitary-Ware/main/ensuite-sink/1.pdf" target="_blank">Tap Datasheet </a>
+* <a href="https://raw.githubusercontent.com/pirateZilla/Sanitary-Ware/main/ensuite-sink/2.pdf" target="_blank">Sink Datasheet</a>
+* <a href="https://raw.githubusercontent.com/pirateZilla/Sanitary-Ware/main/siphon.pdf" target="_blank">Siphon Datasheet</a>
+* <a href="https://raw.githubusercontent.com/pirateZilla/Sanitary-Ware/main/stoppers.pdf" target="_blank">Stopper Datasheet</a>
 
 ### Vanity Unit
 
@@ -73,15 +76,15 @@
 
 #### Additional Technical Specifications and Manuals
 
-* Placeholder
+* <a href="https://raw.githubusercontent.com/pirateZilla/Sanitary-Ware/main/ensuite-vanity.pdf" target="_blank"> Ensuite Vanity Datasheet</a>
 
 ### Mirror
 
 | Product Name                           | Item Number    | Price          | Retailer       | Datasheet      |
 | ---------------------------------------| -------------- | -------------- | -------------- | -------------- |
-| Schneider O-Line wall-mounted or recessed mirror cabinet, 3 doors | [164.131.02.02](https://www.reuter.com/schneider-o-line-wall-mounted-or-recessed-mirror-cabinet-3-doors-w-130-h-745-d-128-cm-a599105.php) | [€913.18](https://www.reuter.com/schneider-o-line-wall-mounted-or-recessed-mirror-cabinet-3-doors-w-130-h-745-d-128-cm-a599105.php) | Reuter (Germany) | <a href="https://raw.githubusercontent.com/pirateZilla/Sanitary-Ware/main/ensuite-mirror.pdf" target="_blank">Datasheet</a> |
+| Villeroy & Boch My View Now recessed mirror cabinet with LED lighting with 3 doors with sensor dimmer | [A4561600](https://pro.villeroy-boch.com/en/pl/bw/m/My-View-Now-Built-in-mirror-cabinet-Rectangle-A45616.html) | [€1,835.50](https://www.reuter.com/villeroy-boch-my-view-now-recessed-mirror-cabinet-with-led-lighting-w-160-h-75-d-168-cm-3-doors-with-sensor-dimmer-a964746.php) | Reuter (Germany) | <a href="https://raw.githubusercontent.com/pirateZilla/Sanitary-Ware/main/ensuite-mirror2.pdf" target="_blank">Datasheet</a> |
 
-![ensuite-mirror](ensuite-mirror.jpg)
+![ensuite-mirror2](ensuite-mirror2.jpg)
 
 #### Additional Technical Specifications and Manuals
 
@@ -174,14 +177,17 @@
 
 #### Additional Technical Specifications and Manuals
 
-* Placeholder
+* <a href="https://raw.githubusercontent.com/pirateZilla/Sanitary-Ware/main/ensuite-sink/1.pdf" target="_blank">Tap Datasheet </a>
+* <a href="https://raw.githubusercontent.com/pirateZilla/Sanitary-Ware/main/ensuite-sink/2.pdf" target="_blank">Sink Datasheet</a>
+* <a href="https://raw.githubusercontent.com/pirateZilla/Sanitary-Ware/main/siphon.pdf" target="_blank">Siphon Datasheet</a>
+* <a href="https://raw.githubusercontent.com/pirateZilla/Sanitary-Ware/main/stoppers.pdf" target="_blank">Stopper Datasheet</a>
 
 ### Vanity Unit
 
 | Product Name                           | Item Number    | Price          | Retailer       | Datasheet      |
 | ---------------------------------------| -------------- | -------------- | -------------- | -------------- |
-| IKEA GODMORGON | [404.827.56](https://www.ikea.com/ie/en/p/godmorgon-wash-stand-with-1-drawer-gillburen-dark-grey-40482756/) | [€129.00](https://www.ikea.com/ie/en/p/godmorgon-wash-stand-with-1-drawer-gillburen-dark-grey-40482756/) | IKEA (Ireland) | <a href="https://raw.githubusercontent.com/pirateZilla/Sanitary-Ware/main/mb-vanity" target="_blank">Datasheet</a> |
-| IKEA TOLKEN | [404.827.56](https://www.ikea.com/ie/en/p/tolken-countertop-bamboo-40371273/) | [€70.00](https://www.ikea.com/ie/en/p/tolken-countertop-bamboo-40371273/) | IKEA (Ireland) | <a href="https://raw.githubusercontent.com/pirateZilla/Sanitary-Ware/main/mb-counter" target="_blank">Datasheet</a> |
+| IKEA GODMORGON | [404.827.56](https://www.ikea.com/ie/en/p/godmorgon-wash-stand-with-1-drawer-gillburen-dark-grey-40482756/) | [€129.00](https://www.ikea.com/ie/en/p/godmorgon-wash-stand-with-1-drawer-gillburen-dark-grey-40482756/) | IKEA (Ireland) | <a href="https://raw.githubusercontent.com/pirateZilla/Sanitary-Ware/main/mb-vanity.pdf" target="_blank">Datasheet</a> |
+| IKEA TOLKEN | [404.827.56](https://www.ikea.com/ie/en/p/tolken-countertop-bamboo-40371273/) | [€70.00](https://www.ikea.com/ie/en/p/tolken-countertop-bamboo-40371273/) | IKEA (Ireland) | <a href="https://raw.githubusercontent.com/pirateZilla/Sanitary-Ware/main/mb-counter.pdf" target="_blank">Datasheet</a> |
 
 ![mb-vanity](mb-vanity.webp)
 
@@ -385,7 +391,7 @@
 | PREMIUM Universal waste valve with accumulation function, with ceramic cap | [PR1004](https://www.reuter.com/premium-universal-waste-valve-with-accumulation-function-with-ceramic-cap-a698914.php) | [€52.64](https://www.reuter.com/premium-universal-waste-valve-with-accumulation-function-with-ceramic-cap-a698914.php) | Reuter (Germany) | <a href="https://raw.githubusercontent.com/pirateZilla/Sanitary-Ware/main/stoppers.pdf" target="_blank">Datasheet</a> | 4 | €210.56 |
 | PREMIUM Universal compact siphon with siphon connection sleeves | [PR1007](https://www.reuter.com/premium-universal-compact-siphon-with-siphon-connection-sleeves-a800888.php) | [€66.44](https://www.reuter.com/premium-universal-compact-siphon-with-siphon-connection-sleeves-a800888.php) | Reuter (Germany) | <a href="https://raw.githubusercontent.com/pirateZilla/Sanitary-Ware/main/siphon.pdf" target="_blank">Datasheet</a> | 4 | €265.76 |
 | Villeroy & Boch Venticello XXL vanity unit for 2 countertop basins with 4 pull-out compartments front matt black / corpus matt black, chrome handles | [A94401PD](https://pro.villeroy-boch.com/en/gb/bw/m/A94401.html?tx_mmpdu_profiportal%5Baction%5D=detail&cHash=e4d52a653b712e8116f6baa73fa0d2f3) | [€1,415.67](https://www.reuter.com/villeroy-boch-venticello-vanity-unit-xxl-for-2-countertop-washbasins-w-1257-h-606-d-502-cm-4-pull-out-compartments-front-matt-black-corpus-matt-black-chrome-handles-a569498.php) | Reuter (Germany) | <a href="https://raw.githubusercontent.com/pirateZilla/Sanitary-Ware/main/ensuite-vanity.pdf" target="_blank">Datasheet</a> | 1 | €1,415.67 |
-| Schneider O-Line wall-mounted or recessed mirror cabinet, 3 doors | [164.131.02.02](https://www.reuter.com/schneider-o-line-wall-mounted-or-recessed-mirror-cabinet-3-doors-w-130-h-745-d-128-cm-a599105.php) | [€913.18](https://www.reuter.com/schneider-o-line-wall-mounted-or-recessed-mirror-cabinet-3-doors-w-130-h-745-d-128-cm-a599105.php) | Reuter (Germany) | <a href="https://raw.githubusercontent.com/pirateZilla/Sanitary-Ware/main/ensuite-mirror.pdf" target="_blank">Datasheet</a> | 1 | €913.18 |
+| Villeroy & Boch My View Now recessed mirror cabinet with LED lighting with 3 doors with sensor dimmer | [A4561600](https://pro.villeroy-boch.com/en/pl/bw/m/My-View-Now-Built-in-mirror-cabinet-Rectangle-A45616.html) | [€1,835.50](https://www.reuter.com/villeroy-boch-my-view-now-recessed-mirror-cabinet-with-led-lighting-w-160-h-75-d-168-cm-3-doors-with-sensor-dimmer-a964746.php) | Reuter (Germany) | <a href="https://raw.githubusercontent.com/pirateZilla/Sanitary-Ware/main/ensuite-mirror2.pdf" target="_blank">Datasheet</a> | 1 | €1,835.50 |
 | TECE drainprofile shower channel set brushed stainless steel, L: 100 cm | [671000+673002](https://produktdaten.tece.de/web/tece_DE/lb/tece/KAT03TCDRAINPROFILEDUPRO/TECEdrainprofile%20Duschprofil%2C%201000%20mm%2C%20Edelstahl%20geb%C3%BCrstet/$catalogue/teceData/PR/671000/index.xhtml) | [€414.37](https://www.reuter.com/tece-drainprofile-shower-channel-set-dn-50-brushed-stainless-steel-l-100-cm-a692110.php) | Reuter (Germany) | <a href="https://raw.githubusercontent.com/pirateZilla/Sanitary-Ware/main/Shower-Drains.pdf" target="_blank">Datasheet</a> | 3 | €1,243.11 |
 | OPTIONAL TECE drainprofile feet | [674000](https://produktdaten.tece.de/web/tece_DE/en_GB/tece/KAT03TCDRAINPROZUBEHOER/TECEdrainprofile%20mounting%20feet/PR/674000/index.xhtml) | [€20.39](https://www.reuter.com/tece-drainprofile-feet-a633882.php) | Reuter (Germany) | <a href="https://raw.githubusercontent.com/pirateZilla/Sanitary-Ware/main/drain-feet.pdf" target="_blank">Datasheet</a> | 3 | €61.17 |
 | OPTIONAL TECE sound insulation mat Drainbase for TECE drainline, drainprofile and TECE drainboard | [660001](https://produktdaten.tece.de/web/tece_DE/lb/tece/KAT03TCDLZUBEHOER/TECE%20Drainbase%20sound%20insulation%20mat%20for%20Drainline%20and%20Drainboard%20-%20pcs./$catalogue/teceData/PR/660001/index.xhtml) | [€68.41](https://www.reuter.com/tece-sound-insulation-mat-drainbase-for-tece-drainline-drainprofile-and-tece-drainboard-a283167.php) | Reuter (Germany) | <a href="https://raw.githubusercontent.com/pirateZilla/Sanitary-Ware/main/drain-mat.pdf" target="_blank">Datasheet</a> | 3 | €205.23 |
@@ -405,4 +411,4 @@
 | Villeroy & Boch Loop & Friends countertop basin, oval white, with CeramicPlus, with overflow | [515100R1](https://www.reuter.com/villeroy-boch-loop-friends-countertop-washbasin-w-585-h-11-d-38-cm-white-with-ceramicplus-with-overflow-a184633.php) | [€370.19](https://www.reuter.com/villeroy-boch-loop-friends-countertop-washbasin-w-585-h-11-d-38-cm-white-with-ceramicplus-with-overflow-a184633.php) | Reuter (Germany) | <a href="https://raw.githubusercontent.com/pirateZilla/Sanitary-Ware/main/wc-sink.pdf" target="_blank">Datasheet</a> | 1 | €370.19 |
 | IKEA GODMORGON | [804.812.55](https://www.ikea.com/us/en/p/godmorgon-sink-cabinet-with-2-drawers-gillburen-gray-green-80481255/) | [€179.00](https://www.ikea.com/us/en/p/godmorgon-sink-cabinet-with-2-drawers-gillburen-gray-green-80481255/) | IKEA (Ireland) | <a href="https://raw.githubusercontent.com/pirateZilla/Sanitary-Ware/main/wc-vanity" target="_blank">Datasheet</a> | 1 | €179.00 |
 | IKEA TOLKEN | [503.546.97](https://www.ikea.com/ie/en/p/tolken-countertop-marble-effect-50354697/) | [€30.00](https://www.ikea.com/ie/en/p/tolken-countertop-marble-effect-50354697/) | IKEA (Ireland) | <a href="https://raw.githubusercontent.com/pirateZilla/Sanitary-Ware/main/wc-counter" target="_blank">Datasheet</a> | 1 | €30.00 | 
-| **Total** |  |  |  |  |  | €14,746.36 | 
+| **Total** |  |  |  |  |  | €15,668.68 | 
