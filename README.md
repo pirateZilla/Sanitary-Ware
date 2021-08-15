@@ -1,15 +1,15 @@
 # Sanitary Ware
 
-## Ensuite
+# Ensuite
 
-### Shower
+## Shower
 
 | Product Name                           | Item Number    | Price          | Retailer       | Datasheet      |
 | ---------------------------------------| -------------- | -------------- | -------------- | -------------- |
 | Grohe Grohtherm SmartControl shower system with thermostat & Rainshower 310 SmartActive Cube overhead shower | [34706000](https://www.grohe.co.uk/en_gb/grohtherm-smartcontrol-perfect-shower-set-with-rainshower-smartactive-310-cube-34706000.html) | [€827.89](https://www.reuter.com/grohe-grohtherm-smartcontrol-shower-system-with-thermostat-rainshower-310-smartactive-cube-overhead-shower-a628231.php) | Reuter (Germany) | <a href="https://raw.githubusercontent.com/pirateZilla/Sanitary-Ware/main/Ensuite-Shower-System.pdf?token=AEUD2R6JVWD7D4RX6XWN3L3BC65VE" target="_blank">Datasheet</a> |
 | OPTIONAL Grohe Power & Soul Cosmopolitan hand shower Ø 160 mm with flow rate function 9.4 l/min | [27668000](https://www.grohe.co.uk/en_gb/power-soul-cosmopolitan-160-hand-shower-4-sprays-27668000.html) | [€93.54](https://www.reuter.com/grohe-power-soul-cosmopolitan-hand-shower--160-mm-with-flow-rate-function-94-l-min-a377265.php) | Reuter (Germany) | <a href="https://raw.githubusercontent.com/pirateZilla/Sanitary-Ware/main/spare-head.pdf" target="_blank">Datasheet</a> |
 
-![ensuite-shower1 image](ensuite-shower1.jpg){ width=50% }
+![ensuite-shower1 image](ensuite-shower1.jpg)
 ![spare-head](spare-head.jpg)
 
 #### Additional Technical Specifications and Manuals
@@ -26,7 +26,7 @@
 * <a href="https://raw.githubusercontent.com/pirateZilla/Sanitary-Ware/main/ensuite-shower/8.pdf" target="_blank">Power & Soul Technical Product Information 2</a>
 
 
-### Toilet
+## Toilet
 
 | Product Name                           | Item Number    | Price          | Retailer       | Datasheet      |
 | ---------------------------------------| -------------- | -------------- | -------------- | -------------- |
@@ -44,7 +44,7 @@
 * <a href="https://raw.githubusercontent.com/pirateZilla/Sanitary-Ware/main/Toilet-Seat.pdf?token=AEUD2RYBDR3V7PZ5SYU5PQ3BC7ASW" target="_blank">Toilet Seat Datasheet</a>
 * <a href="https://raw.githubusercontent.com/pirateZilla/Sanitary-Ware/main/Flush%20Plate.pdf?token=AEUD2R7D3NHUJY5BKGQK76DBC7AS2" target="_blank">Flushplate Datasheet</a>
 
-### Sinks
+## Sinks
 
 | Product Name                           | Item Number    | Price          | Retailer       | Datasheet      | Quantity |
 | ---------------------------------------| -------------- | -------------- | -------------- | -------------- | -------- |
@@ -66,7 +66,7 @@
 * <a href="https://raw.githubusercontent.com/pirateZilla/Sanitary-Ware/main/siphon.pdf" target="_blank">Siphon Datasheet</a>
 * <a href="https://raw.githubusercontent.com/pirateZilla/Sanitary-Ware/main/stoppers.pdf" target="_blank">Stopper Datasheet</a>
 
-### Vanity Unit
+## Vanity Unit
 
 | Product Name                           | Item Number    | Price          | Retailer       | Datasheet      |
 | ---------------------------------------| -------------- | -------------- | -------------- | -------------- |
@@ -78,7 +78,7 @@
 
 * <a href="https://raw.githubusercontent.com/pirateZilla/Sanitary-Ware/main/ensuite-vanity.pdf" target="_blank"> Ensuite Vanity Datasheet</a>
 
-### Mirror
+## Mirror
 
 | Product Name                           | Item Number    | Price          | Retailer       | Datasheet      |
 | ---------------------------------------| -------------- | -------------- | -------------- | -------------- |
@@ -90,7 +90,7 @@
 
 * <a href="https://raw.githubusercontent.com/pirateZilla/Sanitary-Ware/main/ensuite-mirror2.pdf" target="_blank"> Ensuite Mirror Datasheet</a>
 
-### Shower Drain
+## Shower Drain
 
 | Product Name                           | Item Number    | Price          | Retailer       | Datasheet      |
 | ---------------------------------------| -------------- | -------------- | -------------- | -------------- |
@@ -113,7 +113,7 @@
 * <a href="https://raw.githubusercontent.com/pirateZilla/Sanitary-Ware/main/drain-feet.pdf" target="_blank">Drain Feet Datasheet</a>
 
 
-### Radiator
+## Radiator
 
 | Product Name                           | Item Number    | Price          | Retailer       | Datasheet      |
 | ---------------------------------------| -------------- | -------------- | -------------- | -------------- |
@@ -126,7 +126,7 @@
 * <a href="https://raw.githubusercontent.com/pirateZilla/Sanitary-Ware/main/ensuite-radiator.pdf" target="_blank"> Radiator Datasheet</a>
 * Radiator designed for "wet system", may not be suitable. To discuss.
 
-### Shower Glass
+## Shower Glass
 
 | Product Name                           | Item Number    | Price          | Retailer       | Datasheet      |
 | ---------------------------------------| -------------- | -------------- | -------------- | -------------- |
@@ -140,9 +140,9 @@
 * <a href="https://raw.githubusercontent.com/pirateZilla/Sanitary-Ware/main/ensuite-shower-glass.pdf" target="_blank">Shower Glass Datasheet</a>
 * 1600mm width.
 
-## Main Bathroom
+# Main Bathroom
 
-### Shower
+## Shower
 
 | Product Name                           | Item Number    | Price          | Retailer       | Datasheet      |
 | ---------------------------------------| -------------- | -------------- | -------------- | -------------- |
@@ -157,7 +157,7 @@
 * <a href="https://raw.githubusercontent.com/pirateZilla/Sanitary-Ware/main/mb-wc-shower/3.pdf" target="_blank">Grohtherm concealed shower Technical Product Information 3</a>
 * <a href="https://raw.githubusercontent.com/pirateZilla/Sanitary-Ware/main/mb-wc-shower/1.jpg" target="_blank">Grohtherm concealed shower Technical Product Information 4</a>
 
-### Shower Glass
+## Shower Glass
 
 | Product Name                           | Item Number    | Price          | Retailer       | Datasheet      |
 | ---------------------------------------| -------------- | -------------- | -------------- | -------------- |
@@ -171,7 +171,7 @@
 * <a href="https://raw.githubusercontent.com/pirateZilla/Sanitary-Ware/main/ensuite-shower-glass.pdf" target="_blank">Shower Glass Datasheet</a>
 * 1600mm width.
 
-### Sink
+## Sink
 
 | Product Name                           | Item Number    | Price          | Retailer       | Datasheet      |
 | ---------------------------------------| -------------- | -------------- | -------------- | -------------- |
@@ -193,7 +193,7 @@
 * <a href="https://raw.githubusercontent.com/pirateZilla/Sanitary-Ware/main/siphon.pdf" target="_blank">Siphon Datasheet</a>
 * <a href="https://raw.githubusercontent.com/pirateZilla/Sanitary-Ware/main/stoppers.pdf" target="_blank">Stopper Datasheet</a>
 
-### Vanity Unit
+## Vanity Unit
 
 | Product Name                           | Item Number    | Price          | Retailer       | Datasheet      |
 | ---------------------------------------| -------------- | -------------- | -------------- | -------------- |
@@ -206,7 +206,7 @@
 
 * <a href="https://raw.githubusercontent.com/pirateZilla/Sanitary-Ware/main/mb-counter.pdf" target="_blank">Ikea vanity unit Datasheet</a>
 
-### Mirror
+## Mirror
 
 | Product Name                           | Item Number    | Price          | Retailer       | Datasheet      |
 | ---------------------------------------| -------------- | -------------- | -------------- | -------------- |
@@ -219,7 +219,7 @@
 * <a href="https://raw.githubusercontent.com/pirateZilla/Sanitary-Ware/main/mb-mirror" target="_blank">Cabinet Datasheet</a>
 * <a href="https://raw.githubusercontent.com/pirateZilla/Sanitary-Ware/main/mb-mirror-lights" target="_blank">Lights Datasheet</a>
 
-### Toilet
+## Toilet
 
 | Product Name                           | Item Number    | Price          | Retailer       | Datasheet      |
 | ---------------------------------------| -------------- | -------------- | -------------- | -------------- |
@@ -237,7 +237,7 @@
 * <a href="https://raw.githubusercontent.com/pirateZilla/Sanitary-Ware/main/Toilet-Seat.pdf?token=AEUD2RYBDR3V7PZ5SYU5PQ3BC7ASW" target="_blank">Toilet Seat Datasheet</a>
 * <a href="https://raw.githubusercontent.com/pirateZilla/Sanitary-Ware/main/Flush%20Plate.pdf?token=AEUD2R7D3NHUJY5BKGQK76DBC7AS2" target="_blank">Flushplate Datasheet</a>
 
-### Bath
+## Bath
 
 | Product Name                           | Item Number    | Price          | Retailer       | Datasheet      |
 | ---------------------------------------| -------------- | -------------- | -------------- | -------------- |
@@ -260,7 +260,7 @@
 * <a href="https://raw.githubusercontent.com/pirateZilla/Sanitary-Ware/main/bath/2.jpg" target="_blank">Bath Mixer Installation Kit Dimensions</a>
 * <a href="https://raw.githubusercontent.com/pirateZilla/Sanitary-Ware/main/bath/5.pdf" target="_blank">Bath Mixer Installation Kit Technical Product Information</a>
 
-### Radiator
+## Radiator
 
 | Product Name                           | Item Number    | Price          | Retailer       | Datasheet      |
 | ---------------------------------------| -------------- | -------------- | -------------- | -------------- |
@@ -273,7 +273,7 @@
 * <a href="https://raw.githubusercontent.com/pirateZilla/Sanitary-Ware/main/ensuite-radiator.pdf" target="_blank">Radiator Datasheet</a>
 * Check Power Option Choice and Optional Extras
 
-### Shower Drain
+## Shower Drain
 
 | Product Name                           | Item Number    | Price          | Retailer       | Datasheet      |
 | ---------------------------------------| -------------- | -------------- | -------------- | -------------- |
@@ -296,9 +296,9 @@
 * <a href="https://raw.githubusercontent.com/pirateZilla/Sanitary-Ware/main/drain-feet.pdf" target="_blank">Drain Feet Datasheet</a>
 
 
-## WC
+# WC
 
-### Toilet
+## Toilet
 
 | Product Name                           | Item Number    | Price          | Retailer       | Datasheet      |
 | ---------------------------------------| -------------- | -------------- | -------------- | -------------- |
@@ -317,7 +317,7 @@
 * <a href="https://raw.githubusercontent.com/pirateZilla/Sanitary-Ware/main/Flush%20Plate.pdf?token=AEUD2R7D3NHUJY5BKGQK76DBC7AS2" target="_blank">Flushplate Datasheet</a>
 
 
-### Shower
+## Shower
 
 | Product Name                           | Item Number    | Price          | Retailer       | Datasheet      |
 | ---------------------------------------| -------------- | -------------- | -------------- | -------------- |
@@ -332,7 +332,7 @@
 * <a href="https://raw.githubusercontent.com/pirateZilla/Sanitary-Ware/main/mb-wc-shower/3.pdf" target="_blank">Grohtherm concealed shower Technical Product Information 3</a>
 * <a href="https://raw.githubusercontent.com/pirateZilla/Sanitary-Ware/main/mb-wc-shower/1.jpg" target="_blank">Grohtherm concealed shower Technical Product Information 4</a>
 
-### Shower Drain
+## Shower Drain
 
 | Product Name                           | Item Number    | Price          | Retailer       | Datasheet      |
 | ---------------------------------------| -------------- | -------------- | -------------- | -------------- |
@@ -354,7 +354,7 @@
 * <a href="https://raw.githubusercontent.com/pirateZilla/Sanitary-Ware/main/drain-mat.pdf" target="_blank">Drain Mat Datasheet</a>
 * <a href="https://raw.githubusercontent.com/pirateZilla/Sanitary-Ware/main/drain-feet.pdf" target="_blank">Drain Feet Datasheet</a>
 
-### Shower Glass
+## Shower Glass
 
 | Product Name                           | Item Number    | Price          | Retailer       | Datasheet      |
 | ---------------------------------------| -------------- | -------------- | -------------- | -------------- |
@@ -363,7 +363,7 @@
 
 ![wc-shower-glass](wc-shower-glass.jpg)
 
-### Mirror
+## Mirror
 
 | Product Name                           | Item Number    | Price          | Retailer       | Datasheet      |
 | ---------------------------------------| -------------- | -------------- | -------------- | -------------- |
@@ -371,7 +371,7 @@
 
 ![wc-mirror](wc-mirror.webp)
 
-### Sink
+## Sink
 
 | Product Name                           | Item Number    | Price          | Retailer       | Datasheet      |
 | ---------------------------------------| -------------- | -------------- | -------------- | -------------- |
@@ -393,7 +393,7 @@
 * <a href="https://raw.githubusercontent.com/pirateZilla/Sanitary-Ware/main/siphon.pdf" target="_blank">Siphon Datasheet</a>
 * <a href="https://raw.githubusercontent.com/pirateZilla/Sanitary-Ware/main/stoppers.pdf" target="_blank">Stopper Datasheet</a>
 
-### Vanity Unit
+## Vanity Unit
 
 | Product Name                           | Item Number    | Price          | Retailer       | Datasheet      |
 | ---------------------------------------| -------------- | -------------- | -------------- | -------------- |
@@ -407,7 +407,7 @@
 * <a href="https://raw.githubusercontent.com/pirateZilla/Sanitary-Ware/main/wc-counter" target="_blank">Vanity Datasheet</a>
 
 
-## Cost Table
+# Cost Table
 
 | Product Name                           | Item Number    | Price          | Retailer       | Datasheet      | Quantity | Total |
 | --------------------------------------- | -------------- | -------------- | -------------- | -------------- | -------------- | -------------- |
