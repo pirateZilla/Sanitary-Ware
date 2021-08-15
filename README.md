@@ -14,14 +14,14 @@
 
 #### Additional Technical Specifications and Manuals
 
-* <a href="https://raw.githubusercontent.com/pirateZilla/Sanitary-Ware/main/spare-head.pdf" target="_blank">Technical Product Information 1</a>
-* <a href="https://raw.githubusercontent.com/pirateZilla/Sanitary-Ware/main/spare-head.pdf" target="_blank">Technical Product Information 2</a>
-* <a href="https://raw.githubusercontent.com/pirateZilla/Sanitary-Ware/main/spare-head.pdf" target="_blank">Technical Product Information 3</a>
-* <a href="https://raw.githubusercontent.com/pirateZilla/Sanitary-Ware/main/spare-head.pdf" target="_blank">Technical Product Information 4</a>
-* <a href="https://raw.githubusercontent.com/pirateZilla/Sanitary-Ware/main/spare-head.pdf" target="_blank">Technical Product Information 5</a>
-* <a href="https://raw.githubusercontent.com/pirateZilla/Sanitary-Ware/main/spare-head.pdf" target="_blank">Technical Product Information 6</a>
-* <a href="https://raw.githubusercontent.com/pirateZilla/Sanitary-Ware/main/spare-head.pdf" target="_blank">Technical Product Information 7</a>
-* <a href="https://raw.githubusercontent.com/pirateZilla/Sanitary-Ware/main/spare-head.pdf" target="_blank">Technical Product Information 8</a>
+* <a href="https://raw.githubusercontent.com/pirateZilla/Sanitary-Ware/main/ensuite-shower/1.pdf" target="_blank">Technical Product Information 1</a>
+* <a href="https://raw.githubusercontent.com/pirateZilla/Sanitary-Ware/main/ensuite-shower/2.pdf" target="_blank">Technical Product Information 2</a>
+* <a href="https://raw.githubusercontent.com/pirateZilla/Sanitary-Ware/main/ensuite-shower/3.pdf" target="_blank">Technical Product Information 3</a>
+* <a href="https://raw.githubusercontent.com/pirateZilla/Sanitary-Ware/main/ensuite-shower/4.pdf" target="_blank">Technical Product Information 4</a>
+* <a href="https://raw.githubusercontent.com/pirateZilla/Sanitary-Ware/main/ensuite-shower/5.pdf" target="_blank">Technical Product Information 5</a>
+* <a href="https://raw.githubusercontent.com/pirateZilla/Sanitary-Ware/main/ensuite-shower/6.pdf" target="_blank">Technical Product Information 6</a>
+* <a href="https://raw.githubusercontent.com/pirateZilla/Sanitary-Ware/main/ensuite-shower/7.pdf" target="_blank">Technical Product Information 7</a>
+* <a href="https://raw.githubusercontent.com/pirateZilla/Sanitary-Ware/main/ensuite-shower/1.jpg" target="_blank">Technical Product Information 8</a>
 
 
 ### Toilet
